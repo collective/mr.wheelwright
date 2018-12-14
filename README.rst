@@ -1,4 +1,7 @@
 
-mr.wheelwrigth
+mr.wheelwright
 -------------- 
-Description of the package
+
+mr.developer extension to build wheels::
+
+    bin/develop wheels <package_spec>
