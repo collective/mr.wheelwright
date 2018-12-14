@@ -1,0 +1,11 @@
+.installed.cfg
+pip-selfcheck.json
+bin/
+lib/
+include/
+develop-eggs/
+parts/
+var/
+src/*.egg-info
+devel/
+.mr.developer.cfg
